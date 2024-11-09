@@ -50,4 +50,4 @@ The power of SQL helped me dive deeper into the data and unlock these fascinatin
 
 <br>
 
-*Enjailles-toi !* 🎉
+*Enjoy !* 🎉
