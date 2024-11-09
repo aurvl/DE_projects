@@ -36,7 +36,7 @@ Once the data was imported into SQL ([series.sql](https://github.com/aurvl/Proje
 - 📝 **The series with the most critiques** from the press.
 - etc...
   
-The power of SQL helped me dive deeper into the data and unlock these fascinating insights!💡 (for an example please refer to [analysis.Rmd](https://github.com/aurvl/Projects/blob/main/Scraping%20Allocine/analysis/analysis.Rmd) or [download the analysis](https://github.com/aurvl/Projects/blob/main/Scraping%20Allocine/analysis/analysis.html)).
+The power of SQL helped me dive deeper into the data and unlock these fascinating insights!💡 (for an example please refer to [analysis.Rmd](https://github.com/aurvl/Projects/blob/main/Scraping%20Allocine/analysis/) or [download the analysis (analysis.html)](https://github.com/aurvl/Projects/blob/main/Scraping%20Allocine/analysis/)).
 
 ## Tools
 - **Python** 🐍 for web scraping and data manipulation.
