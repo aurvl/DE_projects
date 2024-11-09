@@ -1,4 +1,4 @@
-# Banking Fraud Analysis Project 🥷💳
+# Banking Fraud Data Collection Project 🥷💳
 
 #### Description of each files in the project
 ```
