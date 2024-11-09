@@ -1,5 +1,17 @@
 # Banking Fraud Analysis Project 🥷💳
 
+#### Description of each files in the project
+```
+SQL Bank Fraud/
+    - SQL Bank Fraud.md : Documentation of the project
+
+    fraud_project/
+          - index.html : This is the main page of the application. It includes a form where users can input their answers
+          - app.js : JavaScript that manages interactions on the index.html page, such as form validation and submitting data to the server.
+          - connect.php : This file contains the PHP script to establish a connection to the MySQL database
+          - connexion_test.php : PHP script to test the database connection
+          - database.sql : SQL script that create the SQL database to store the user informations.
+```
 ## Description
 This project simulates fictive banking transactions and records users' responses related to their attitude toward risk and money. The goal is to collect data from users and store it in a MySQL database to analyze potential indicators of fraudulent behavior. The application is built using HTML, CSS, JavaScript (for form validation and dynamic data), PHP (for backend processing), and MySQL (for database storage).
 
