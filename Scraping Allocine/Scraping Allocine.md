@@ -3,16 +3,16 @@
 #### Project structure
 ```
 Scraping Allocine/
-    - Scraping Allocine.md : Documentation of the project
-    - scraping.ipynb : Jupyter Notebook containing the python code that extract informations from html pages
-    - Pages.rar : HTML where data have been extracted
-    - film_data.csv : The dataset obtained after data extraction
+    |- Scraping Allocine.md : Documentation of the project
+    |- scraping.ipynb : Jupyter Notebook containing the python code that extract informations from html pages
+    |- Pages.rar : HTML where data have been extracted
+    |- film_data.csv : The dataset obtained after data extraction
 
-    - series.sql : SQL script that allow to understand trends, relations and structures in the obtained datset
+    |- series.sql : SQL script that allow to understand trends, relations and structures in the obtained datset
 
-    analysis/
-        - analysis.Rmd : A R Notebook that contains a linear regression analysis based on the data
-        - analysis.html : A html output of the Rmarkdown Notebook 
+    |- analysis/
+        |- analysis.Rmd : A R Notebook that contains a linear regression analysis based on the data
+        |- analysis.html : A html output of the Rmarkdown Notebook 
 ```
 
 ## Description
