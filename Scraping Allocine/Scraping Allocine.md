@@ -1,5 +1,20 @@
 # 🎥 AlloCiné TV Series Scraping Project
 
+#### Project structure
+```
+Scraping Allocine/
+    - Scraping Allocine.md : Documentation of the project
+    - scraping.ipynb : Jupyter Notebook containing the python code that extract informations from html pages
+    - Pages.rar : HTML where data have been extracted
+    - film_data.csv : The dataset obtained after data extraction
+
+    - series.sql : SQL script that allow to understand trends, relations and structures in the obtained datset
+
+    analysis/
+        - analysis.Rmd : A R Notebook that contains a linear regression analysis based on the data
+        - analysis.html : A html output of the Rmarkdown Notebook 
+```
+
 ## Description
 Ever wondered how you can extract and analyze TV series data straight from the web? This project is all about scraping TV series data from AlloCiné, organizing it into a structured format, and conducting cool analyses! We scraped data like the series title, period, duration, genre, ratings, and more to create a comprehensive dataset. 📊
 
@@ -36,7 +51,7 @@ Once the data was imported into SQL ([series.sql](https://github.com/aurvl/Proje
 - 📝 **The series with the most critiques** from the press.
 - etc...
   
-The power of SQL helped me dive deeper into the data and unlock these fascinating insights!💡 (for an example please refer to [analysis.Rmd](https://github.com/aurvl/Projects/blob/main/Scraping%20Allocine/analysis/) or [download the analysis (analysis.html)](https://github.com/aurvl/Projects/blob/main/Scraping%20Allocine/analysis/)).
+The power of SQL helped me dive deeper into the data and unlock these fascinating insights!💡 (for an example please refer to [analysis.Rmd](https://github.com/aurvl/DE_projects/blob/main/Scraping%20Allocine/analysis/analysis.Rmd) or [download the analysis](https://github.com/aurvl/DE_projects/blob/main/Scraping%20Allocine/analysis/analysis.html).
 
 ## Tools
 - **Python** 🐍 for web scraping and data manipulation.
